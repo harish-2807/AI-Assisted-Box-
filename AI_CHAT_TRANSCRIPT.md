@@ -43,3 +43,6 @@ Please do one final check of the complete project
 - All API endpoints verified and reachable.
 - Seed data command created and executed successfully.
 - Project initialized in Git and pushed to GitHub.
+
+### What I Learned
+I learned how to make a Django project and create APIs. I learned how to check which box is best for an order by looking at the product size, weight, and quantity. I also learned how to find and fix errors and write test cases. I learned that AI can help me, but I still need to understand the code and check if it is working correctly.
